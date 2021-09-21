@@ -67,3 +67,4 @@ C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\assingment4.
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\ref\assingment4.dll
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\assingment4.pdb
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\assingment4.genruntimeconfig.cache
+C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Product\Category.cshtml.g.cs
