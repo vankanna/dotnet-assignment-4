@@ -1,0 +1,12 @@
+@using assingment4.Models
+@model IEnumerable<Category>
+
+<h2 class="mt-3"><i class="fas fa-list-ul"></i> Product Categories</h2>
+<div class="list-group">
+    <ul>
+    @foreach (Category category in Model)
+    {
+        <li asp-action="Index" asp-route-id="@category.CategoryId">@category.CategoryName - @category.Description</li>
+    }
+    </ul>
+</div>
