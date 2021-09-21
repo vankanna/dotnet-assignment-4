@@ -13,9 +13,8 @@ namespace assingment4.Models
         public short UnitsInStock { get; set; }
         public short UnitsOnOrder { get; set; }
         public short ReorderLevel { get; set; }
-        public bool Discountinued { get; set; }
+        public bool Discontinued { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
-
     }
 }
