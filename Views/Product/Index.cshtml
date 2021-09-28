@@ -1,0 +1,22 @@
+@using Northwind.Models
+@model IEnumerable<Product>
+
+<table class="table table-striped table-borderless">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Product</th>
+            <th scope="col" class="text-middle">Price</th>
+            <th scope="col" class="text-right">Units In Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in Model)
+        {
+        <tr>
+            <td>@product.ProductName</td>
+            <td class="text-middle">@string.Format("{0:c}", product.UnitPrice)</td>
+            <td class="text-right">@product.UnitsInStock</td>
+        </tr>
+        }
+    </tbody>
+</table>
