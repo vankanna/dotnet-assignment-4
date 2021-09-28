@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using assingment4.Models;
+using Northwind.Models;
 using System.Linq;
 
-namespace assingment4.Controllers
+namespace Northwind.Controllers
 {
     public class HomeController : Controller
     {

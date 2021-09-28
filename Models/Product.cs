@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace assingment4.Models
+namespace Northwind.Models
 {
     public class Product
     {

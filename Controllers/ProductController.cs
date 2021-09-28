@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using assingment4.Models;
+using Northwind.Models;
 using System.Linq;
 
-namespace assignment4
+namespace Northwind
 {
     public class ProductController : Controller
     {

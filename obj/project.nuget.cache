@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pdo+RkGMr4N5pkb5r+9KP849bkQBUKoeME/Q/BZfVIvkyU8RBm5mKXqx9SA8jCO5PXnKTCJ7HBVhDkaTdeR5vQ==",
+  "dgSpecHash": "skqGBZwnb6P9XjrcZFgmEhPgavOUgyMb+O5YAu0jySDHBe7Q8re27aErURdqYS/Sq8wthBB71jZ0OKyYgKQELw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sumin\\Desktop\\2021Fall\\dotNet\\assingment4\\assingment4.csproj",
+  "projectFilePath": "C:\\Users\\Sumin\\Desktop\\2021Fall\\dotNet\\assingment4\\Northwind.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sumin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sumin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

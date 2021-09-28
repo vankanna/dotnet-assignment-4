@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using assingment4.Models;
+using Northwind.Models;
 
-namespace assingment4.Migrations
+namespace Northwind.Migrations
 {
     [DbContext(typeof(NorthwindContext))]
     [Migration("20210921231325_UpdateUnitPrice")]

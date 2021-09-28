@@ -5802,9 +5802,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sumin\\Desktop\\2021Fall\\dotNet\\assingment4\\assingment4.csproj",
-      "projectName": "assingment4",
-      "projectPath": "C:\\Users\\Sumin\\Desktop\\2021Fall\\dotNet\\assingment4\\assingment4.csproj",
+      "projectUniqueName": "C:\\Users\\Sumin\\Desktop\\2021Fall\\dotNet\\assingment4\\Northwind.csproj",
+      "projectName": "Northwind",
+      "projectPath": "C:\\Users\\Sumin\\Desktop\\2021Fall\\dotNet\\assingment4\\Northwind.csproj",
       "packagesPath": "C:\\Users\\Sumin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sumin\\Desktop\\2021Fall\\dotNet\\assingment4\\obj\\",
       "projectStyle": "PackageReference",

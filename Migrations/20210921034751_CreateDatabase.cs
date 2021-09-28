@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace assingment4.Migrations
+namespace Northwind.Migrations
 {
     public partial class CreateDatabase : Migration
     {
