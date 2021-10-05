@@ -1,0 +1,8 @@
+For the first part of this assignment, complete the featured discounts on the homepage of the Northwind application:
+
+Clicking on a discount code link should display a toast (along with sound effect)
+The toast should display the selected discount title and code
+Part 2 of this assignment, involves creating the discounts controller method and view.
+The discounts controller method should be added to the product controller and return the appropriate model to its view.
+The view should display all current product discounts (use valid date range) in a Bootstrap list view.
+In addition, the Navbar should be updated - the Products/Current Discounts link should navigate to the appropriate controller method.
