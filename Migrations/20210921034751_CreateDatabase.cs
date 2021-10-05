@@ -32,7 +32,7 @@ namespace Northwind.Migrations
                     UnitsInStock = table.Column<short>(type: "smallint", nullable: false),
                     UnitsOnOrder = table.Column<short>(type: "smallint", nullable: false),
                     ReorderLevel = table.Column<short>(type: "smallint", nullable: false),
-                    Discountinued = table.Column<bool>(type: "bit", nullable: false),
+                    Discontinued = table.Column<bool>(type: "bit", nullable: false),
                     CategoryId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

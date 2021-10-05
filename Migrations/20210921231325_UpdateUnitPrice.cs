@@ -7,7 +7,7 @@ namespace Northwind.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.RenameColumn(
-                name: "Discountinued",
+                name: "Discontinued",
                 table: "Products",
                 newName: "Discontinued");
 
@@ -25,7 +25,7 @@ namespace Northwind.Migrations
             migrationBuilder.RenameColumn(
                 name: "Discontinued",
                 table: "Products",
-                newName: "Discountinued");
+                newName: "Discontinued");
 
             migrationBuilder.AlterColumn<short>(
                 name: "UnitsInStock",

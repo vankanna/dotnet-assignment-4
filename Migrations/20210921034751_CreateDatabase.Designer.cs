@@ -48,7 +48,7 @@ namespace Northwind.Migrations
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
-                    b.Property<bool>("Discountinued")
+                    b.Property<bool>("Discontinued")
                         .HasColumnType("bit");
 
                     b.Property<string>("ProductName")
