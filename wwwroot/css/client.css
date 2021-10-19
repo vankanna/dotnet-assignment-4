@@ -1,3 +1,12 @@
 ﻿body {
     font-family: 'Fjalla One', sans-serif;
 }
+
+input:invalid {
+    border: 2px solid red;
+}
+
+input:invalid:required {
+    border: 2px solid red;
+}
+  

@@ -55,6 +55,7 @@ C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\scopedcss\bu
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Northwind.TagHelpers.input.cache
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Northwind.TagHelpers.output.cache
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Northwind.RazorCoreGenerate.cache
+C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Discount\Index.cshtml.g.cs
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Product\Category.cshtml.g.cs
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
@@ -69,4 +70,5 @@ C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Northwind.dl
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\ref\Northwind.dll
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Northwind.pdb
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Northwind.genruntimeconfig.cache
-C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Discount\Index.cshtml.g.cs
+C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Debug\net5.0\Razor\Views\Customer\Register.cshtml.g.cs

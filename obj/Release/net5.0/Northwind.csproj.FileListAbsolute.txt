@@ -69,3 +69,4 @@ C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Release\net5.0\Northwind.
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Release\net5.0\ref\Northwind.dll
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Release\net5.0\Northwind.pdb
 C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Release\net5.0\Northwind.genruntimeconfig.cache
+C:\Users\Sumin\Desktop\2021Fall\dotNet\assingment4\obj\Release\net5.0\Razor\Views\Discount\Index.cshtml.g.cs

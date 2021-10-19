@@ -1,0 +1,34 @@
+@model Northwind.Models.Customer
+
+<div class="bg-dark m-1 p-1 text-white"><h4>Register</h4></div>
+<form method="post" asp-action="Register">
+    <div asp-validation-summary="All"></div>
+    <label asp-for="@Model.CompanyName">Enter Company Name</label>
+    <input asp-for="@Model.CompanyName" placeholder="Company Name" required minlength="2" maxlength="100"/><br />
+
+    <label asp-for="@Model.Address">Enter Address</label>
+    <input asp-for="@Model.Address" placeholder="Address"  minlength="2" maxlength="100"/><br />
+
+    <label asp-for="@Model.City">Enter City</label>
+    <input asp-for="@Model.City" placeholder="City"  minlength="2" maxlength="100"/><br />
+
+    <label asp-for="@Model.Region">Enter Region</label>
+    <input asp-for="@Model.Region" placeholder="Region"  minlength="2" maxlength="100"/><br />
+
+    <label asp-for="@Model.PostalCode">Enter Postal Code</label>
+    <input asp-for="@Model.PostalCode" placeholder="Postal Code"  minlength="2" maxlength="100"/><br />
+
+    <label asp-for="@Model.Country">Enter Country</label>
+    <input asp-for="@Model.Country" placeholder="Country"  minlength="2" maxlength="100"/><br />
+
+    <label asp-for="@Model.Phone">Enter Phone</label>
+    <input asp-for="@Model.Phone" placeholder="Phone"  minlength="10" maxlength="10"/><br />
+
+    <label asp-for="@Model.Fax">Enter Fax</label>
+    <input asp-for="@Model.Fax" placeholder="Fax"  minlength="10" maxlength="10"/><br />
+
+    <button type="submit">Register</button>
+</form>
+
+<hr />
+<a asp-action="Index">Customer List</a>
